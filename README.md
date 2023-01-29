@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-
-**prodev0119/prodev0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <img src="https://komarev.com/ghpvc/?username=prodev0119&style=flat-square&color=blue" alt="prodev0119"/>
+
+- 🔭 I’m currently working on **Various Web Projects.**
+- 🌱 I’m currently learning **Fashion frameworks. 😎**
+- 👯 I’m looking to collaborate on **Team working.**
+- 🤔 I’m looking for help with **Graphic Designer**
+- 💬 Ask me about **ReactJS, NodeJS, MongDB, Express and other JavaScript frameworks.**
+- 📫 How to reach me: **Look at below.**
+- 😄 Pronouns: **"For 2023!"**
+- ⚡ Fun fact: **Coding, Sports and Friendship.**
+
+

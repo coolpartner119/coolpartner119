@@ -62,7 +62,7 @@
 <h3>Contact with me.</h3>
 <br>
 <div align="center">
-  <a href="https://join.skype.com/invite/UNq8kzDVM5yd" target="_blank" title="live:.cid.5eddc740c0b404a1">
+  <a href="https://join.skype.com/invite/rK2zf02Adfak" target="_blank" title="live:.cid.2338469ab9a21412">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
   </a>
   <a href="mailto:prodev0119@gmail.com" target="_blank" title="prodev0119@gmail.com">
